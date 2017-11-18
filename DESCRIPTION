@@ -1,0 +1,11 @@
+Package: MiRV
+Title: Kernel based independence test for microbiome association studies
+Version: 0.1.0-0
+Description: This package implements various useful functions for RV based independence test of various outcomes with microbiome community-level association analysis.
+Depends:
+    R (>= 3.0.0)
+License: GPL (>= 2)
+LazyData: true
+Author: Baolin Wu [aut, cre], Bin Guo [aut]
+Maintainer: Baolin Wu <baolin@umn.edu>
+RoxygenNote: 6.0.1
